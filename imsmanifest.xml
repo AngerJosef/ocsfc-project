@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" identifier="SingleLocalSCOManifest" version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp = "http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlcpin = "http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsss = "http://www.imsglobal.org/xsd/imsss"  xmlns:imsmd = "http://www.imsglobal.org/xsd/imsmd_rootv1p2p1"  xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xsi:schemaLocation="http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+    <metadata xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3">
+        <schema>ADL SCORM</schema>
+        <schemaversion>2004 4th Edition</schemaversion>
+    </metadata>
+    <organizations default="b1">
+                
+        <organization identifier="b1">
+                        
+            
+            
+        
+            <title>OCSFC</title>
+            <item identifier="l1" identifierref="lF54F9C10S8JV39KV0P7UH26MKS" isvisible="true">
+                                
+                <title>OCSFC</title>
+                            
+            </item>
+            <imsss:sequencing xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss">
+                <imsss:controlMode flow="true"/>
+            </imsss:sequencing>
+            <metadata xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3">
+                <adlcp:location>metadata.xml</adlcp:location>
+            </metadata>
+        </organization>
+            
+    </organizations>
+    <resources>
+                
+    
+        <resource xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" adlcp:scormType="sco" identifier="lF54F9C10S8JV39KV0P7UH26MKS" type="webcontent" href="index.htm">
+                        
+            <metadata>
+                <adlcp:location>metadata.xml</adlcp:location>
+            </metadata>
+                        
+            <file href="app/global.js"/>
+                        
+            <file href="app/init-post.js"/>
+                        
+            <file href="app/init.js"/>
+                        
+            <file href="app/loading.js"/>
+                        
+            <file href="app/sbaction-config.js"/>
+                        
+            <file href="app/SBConfigLoader.js"/>
+                        
+            <file href="assets/6H29FMUOMGFVH2G2A47EQD9PLO.png"/>
+                        
+            <file href="assets/APPLETURNOVE8527VPQ5B4F8F15DQOLBLORSN4.png"/>
+                        
+            <file href="assets/BANANA244901K16QK3D4SHB0EFMQ042N2M9EM8.jpeg"/>
+                        
+            <file href="assets/BH4NEBFG76FTOVTKLOG88IHSI4.png"/>
+                        
+            <file href="assets/BUDAPEST500O54VF5CD8PUMF67K8ELQ25HKKS.jpeg"/>
+                        
+            <file href="assets/CAKE27444966555V031SQNJ399GUF9T3QMO7J4.png"/>
+                        
+            <file href="assets/CITYSCAPENYCLT7BM0DHQKH449IQEU223O3SJK.jpeg"/>
+                        
+            <file href="assets/CITYSUNRISE13D18U61A54FIVB12NO4OR1BJHS.jpg"/>
+                        
+            <file href="assets/CORUTIONVP5P7HROB0SR7IQENAVPTD6JI0.jpg"/>
+                        
+            <file href="assets/CUPOFCOFFEE1KT2MD3SSLRDSQDHLLTCV0KH4K4.png"/>
+                        
+            <file href="assets/frame-full_p-i1648527522405.PNG"/>
+                        
+            <file href="assets/frame-full_p-i1648527531996.PNG"/>
+                        
+            <file href="assets/frame-full_p-i1648528464523.PNG"/>
+                        
+            <file href="assets/frame-full_p-i1648528470306.PNG"/>
+                        
+            <file href="assets/frame-full_p-i1648528489227.PNG"/>
+                        
+            <file href="assets/FRUIT1220367KL0TC67TVHATHCIN1F6T070SJO.png"/>
+                        
+            <file href="assets/IMAGE78P59L7T1UTQCTMRVFCCVD74TM0.png"/>
+                        
+            <file href="assets/IT0V45B4143QV8VL8EQ55I4NN4.png"/>
+                        
+            <file href="assets/KP52PNHO5RC994NMB9TI2MNNN8.png"/>
+                        
+            <file href="assets/OCSFCORGP14E5V23M9C3QD6HIT7QMMJII8.jpg"/>
+                        
+            <file href="assets/OFFICEBUILDII16O7J4CJJ4199KL157EKKL0L4.jpeg"/>
+                        
+            <file href="assets/RINGS4P18AFUD0EAMLIPJVJVBFUN5GG.png"/>
+                        
+            <file href="assets/THEINSPIRING3H1BHED76I0B86HHCEFRPJ4FG4.mp3"/>
+                        
+            <file href="assets/TTSAUDIO1110E92OAUQTTRR2H4MAJ3PH2G0IJO.mp3"/>
+                        
+            <file href="assets/TTSAUDIO6767EL677TIRUC84JV7CO4JEQTLRGK.mp3"/>
+                        
+            <file href="assets/TTSAUDIO9092JP0C8NBRHR6NV2UTUOJED1BFMO.mp3"/>
+                        
+            <file href="assets/ZAKLADATELGP2DHMU68V5GDELMVUE803DGH0.jpg"/>
+                        
+            <file href="axon.js"/>
+                        
+            <file href="fonts/fonts.css"/>
+                        
+            <file href="fonts/roboto-bold-italic.woff"/>
+                        
+            <file href="fonts/roboto-bold.woff"/>
+                        
+            <file href="fonts/roboto-italic.woff"/>
+                        
+            <file href="fonts/roboto.woff"/>
+                        
+            <file href="index.htm"/>
+                        
+            <file href="lib/anim/backDown.css"/>
+                        
+            <file href="lib/anim/backLeft.css"/>
+                        
+            <file href="lib/anim/backRight.css"/>
+                        
+            <file href="lib/anim/backUp.css"/>
+                        
+            <file href="lib/anim/base.css"/>
+                        
+            <file href="lib/anim/bounce.css"/>
+                        
+            <file href="lib/anim/bounceDown.css"/>
+                        
+            <file href="lib/anim/bounceLeft.css"/>
+                        
+            <file href="lib/anim/bounceRight.css"/>
+                        
+            <file href="lib/anim/bounceUp.css"/>
+                        
+            <file href="lib/anim/fadeDown.css"/>
+                        
+            <file href="lib/anim/fadeLeft.css"/>
+                        
+            <file href="lib/anim/fadeRight.css"/>
+                        
+            <file href="lib/anim/fadeUp.css"/>
+                        
+            <file href="lib/anim/flash.css"/>
+                        
+            <file href="lib/anim/flip.css"/>
+                        
+            <file href="lib/anim/flipH.css"/>
+                        
+            <file href="lib/anim/flipV.css"/>
+                        
+            <file href="lib/anim/flipX.css"/>
+                        
+            <file href="lib/anim/flipXBackface.css"/>
+                        
+            <file href="lib/anim/flipY.css"/>
+                        
+            <file href="lib/anim/flipYBackface.css"/>
+                        
+            <file href="lib/anim/headShakeX.css"/>
+                        
+            <file href="lib/anim/headShakeY.css"/>
+                        
+            <file href="lib/anim/heartBeat.css"/>
+                        
+            <file href="lib/anim/highlight.css"/>
+                        
+            <file href="lib/anim/jackTheBox.css"/>
+                        
+            <file href="lib/anim/jello.css"/>
+                        
+            <file href="lib/anim/lightSpeedLeft.css"/>
+                        
+            <file href="lib/anim/lightSpeedRight.css"/>
+                        
+            <file href="lib/anim/puff.css"/>
+                        
+            <file href="lib/anim/pulse.css"/>
+                        
+            <file href="lib/anim/rubberBand.css"/>
+                        
+            <file href="lib/anim/scale.css"/>
+                        
+            <file href="lib/anim/shakeX.css"/>
+                        
+            <file href="lib/anim/shakeY.css"/>
+                        
+            <file href="lib/anim/slideDown.css"/>
+                        
+            <file href="lib/anim/slideLeft.css"/>
+                        
+            <file href="lib/anim/slideRight.css"/>
+                        
+            <file href="lib/anim/slideUp.css"/>
+                        
+            <file href="lib/anim/swing.css"/>
+                        
+            <file href="lib/anim/tada.css"/>
+                        
+            <file href="lib/anim/wobble.css"/>
+                        
+            <file href="lib/anim/zoom.css"/>
+                        
+            <file href="lib/require.js"/>
+                        
+            <file href="lib/underscore-min.js"/>
+                        
+            <file href="main.js"/>
+                        
+            <file href="metadata.xml"/>
+                        
+            <file href="sb-init.js"/>
+                        
+            <file href="wgt/.gitignore"/>
+                        
+            <file href="wgt/com.smartbuilder.axon.widget.line/svg.html"/>
+                    
+        </resource>
+    </resources>
+</manifest>
